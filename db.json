@@ -1,0 +1,214 @@
+{
+  "users": [
+    {
+      "firstName": "Oliver",
+      "lastName": "Bret",
+      "image": "https://t3.ftcdn.net/jpg/02/00/90/24/360_F_200902415_G4eZ9Ok3Ypd4SZZKjc8nqJyFVp1eOD6V.jpg",
+      "email": "Sincere@april.biz",
+      "age": 19,
+      "password": "nf93&2dsk"
+    },
+    {
+      "firstName": "Ervin",
+      "lastName": "Howell",
+      "image": "https://img.freepik.com/free-photo/displeased-young-caucasian-man-frowns-face-discontent-has-angry-expression-being-dissatisfied_273609-16934.jpg",
+      "email": "Shanna@melissa.tv",
+      "age": 27,
+      "password": "hth3&2dsk"
+    },
+    {
+      "firstName": "Lucas",
+      "lastName": "William",
+      "image": "https://www.pishrophd.com/wp-content/uploads/2021/05/avatar.jpg.320x320px.jpg",
+      "email": "Nathan@yesenia.net",
+      "age": 38,
+      "password": "sf63&2dsk"
+    },
+    {
+      "firstName": "Benjamin",
+      "lastName": "Henry",
+      "image": "https://media.nngroup.com/media/people/photos/2022-portrait-page-3.jpg.600x600_q75_autocrop_crop-smart_upscale.jpg",
+      "email": "Lucio@annie.ca",
+      "age": 42,
+      "password": "s8ef3&2dsk"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Oven",
+      "image": "https://img.freepik.com/free-photo/portrait-hapy-young-smart-man-glasses-white-wall_231208-12206.jpg",
+      "email": "Hettinger@annie.ca",
+      "age": 33,
+      "password": "87cd3&2dsk"
+    },
+    {
+      "firstName": "Leanne",
+      "lastName": "Bret",
+      "image": "https://previews.123rf.com/images/liakoltyrina/liakoltyrina1709/liakoltyrina170900222/85317804-happy-and-beautiful-girl-with-glasses-and-braces-young-woman-smiling.jpg",
+      "email": "Dach@jasper.info",
+      "age": 29,
+      "password": "dw3&2dsk"
+    },
+    {
+      "firstName": "Asher",
+      "lastName": "Leo",
+      "image": "https://img.freepik.com/premium-photo/man-suit-stands-with-his-arms-crossed-front-blurred-background_777078-5661.jpg",
+      "email": "Karley@jasper.info",
+      "age": 31,
+      "password": "k$3&2dsk"
+    },
+    {
+      "firstName": "Luca",
+      "lastName": "Modrich",
+      "image": "https://st4.depositphotos.com/13193658/22076/i/450/depositphotos_220768946-stock-photo-focused-african-american-businessman-working.jpg",
+      "email": "Hoeger@billy.biz",
+      "age": 36,
+      "password": "%$3&2dsk"
+    },
+    {
+      "firstName": "Gabriel",
+      "lastName": "Logan",
+      "image": "https://www.shutterstock.com/image-photo/businessman-glasses-showing-smile-260nw-1685161825.jpg",
+      "email": "Telly@billy.biz",
+      "age": 23,
+      "password": "8nkj82dsk"
+    },
+    {
+      "firstName": "Isaak",
+      "lastName": "Thomas",
+      "image": "https://www.shutterstock.com/image-photo/trendy-handsome-man-eyeglasses-street-260nw-153007034.jpg",
+      "email": "Sherwood@mond.me",
+      "age": 41,
+      "password": "jkjs546ef"
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam laboriosam voluptas nobis nulla aperiam!",
+      "image": "https://olcha.uz/image/600x600/products/2021-02-15/samsung-galaxy-s21-5g-8128gb-violet-21369-0.jpeg",
+      "company": "Samsung",
+      "category": "lorem"
+    }
+  ]
+}
